@@ -645,7 +645,7 @@ go_repository(
 
 go_repository(
     name = "com_github_aristanetworks_goarista",
-    commit = "23a91eb493c6734b762ab29037be0dc3c4f5d105",
+    commit = "6ada2baa9c4cd3eb613d1dece309529f7514101a",
     importpath = "github.com/aristanetworks/goarista",
 )
 
